@@ -1,5 +1,7 @@
-# cs171_asg1
+# lamport-clocks
 
-Brent Kirkland
-6365829
-brent@umail.ucsb.edu
+This repo is an implementation of lamport clocks for a distributed systems course.
+
+### To Run:
+
+`./asg1`
