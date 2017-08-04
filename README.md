@@ -11,8 +11,10 @@ m (receive(m)), or
 
 ### To Run:
 
-Open three local terminals and run
+Open three local terminals and run:
 
 `./asg1 [testfile #]` or `python asg1.py [testfile #]`
 
 Where testfile # is the testfile that is unique for each terminal. See the testcases for examples.
+
+Note: This only works with localhost.
